@@ -18,7 +18,7 @@
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/priyankakagitala/magtasks.git'
+                git branch: 'main', url: 'https://github.com/priyankakagitala/magteasks.git'
             }
         }
 
